@@ -6,4 +6,4 @@ The scripts are usually explained along the code lines and more detailed instruc
 
 Please contact me for further clarification: dmay.astro@gmail.com
 
-Most ofthe codes were written together with Tiago V.Ricci (UFFS) and Roberto B.Menezes (University of Mauá).
+Most of the codes were written together with Tiago V.Ricci (UFFS) and Roberto B.Menezes (University of Mauá).
